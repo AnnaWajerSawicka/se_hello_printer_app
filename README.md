@@ -102,9 +102,11 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 # Materiały
 
-- https://virtualenvwrapper.readthedocs.io/en/latest/
+ https://virtualenvwrapper.readthedocs.io/en/latest/
 
 https://travis-ci.org/AnnaWajerSawicka/se_hello_printer_app.svg?branch=master
+
+
 
 <a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=WMCTRsrMFV&Days=1&Design=1" /></a>
 
