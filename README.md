@@ -1,5 +1,5 @@
 # Simple Flask App
-zmiana
+zmiana2
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
