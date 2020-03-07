@@ -11,3 +11,9 @@ script:
   - make test
   - make docker_build
   - make docker_push
+
+deploy:
+  provider: heroku
+  app: zmieniona
+  api_key: ${KEROKU_API_KEY}
+
